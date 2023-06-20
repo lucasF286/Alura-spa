@@ -16,6 +16,31 @@ nav ul li a {
   color: #4F709C;
 }
 nav ul li a:hover {
-  color: #84A7A1;
-  border-bottom: 2px solid #84A7A1;
+  color: #87d6a8;
+  border-bottom: 2px solid #87d6a8;
+}
+
+.banner {
+  background: url("../imagens/banner.jpeg") 27% center no-repeat;
+  min-height: 350px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
+}
+.banner .inner-banner {
+  padding: 3rem;
+  background-color: #84A7A1;
+  opacity: 0.9;
+  border-radius: 45px;
+  text-align: center;
+}
+.banner .inner-banner h1 {
+  font-size: 3rem;
+  color: #4F709C;
+}
+.banner .inner-banner h2 {
+  font-size: 1.5rem;
+  color: #87d6a8;
 }/*# sourceMappingURL=style.css.map */
