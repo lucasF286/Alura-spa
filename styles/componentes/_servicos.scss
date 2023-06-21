@@ -22,7 +22,7 @@
     .cards {
         display: flex;
         justify-content: space-evenly;
-
+        flex-wrap: wrap;
         .card {
             width: 360px;
             text-align: center;
