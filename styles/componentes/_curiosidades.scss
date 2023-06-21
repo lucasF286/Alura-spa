@@ -1,0 +1,8 @@
+@import '../abstract/variaveis';
+
+.curiosidades {
+    text-align: center;
+    h3, h4, p {
+        color: $cor-primaria;
+    }
+}

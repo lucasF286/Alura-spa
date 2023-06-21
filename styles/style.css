@@ -143,4 +143,23 @@ nav ul li a:hover {
 #cupom button:hover {
   background-color: #87d6a8;
   color: #4F709C;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #4F709C;
+  margin-top: 1rem;
+  padding: 1.2rem;
+  background: linear-gradient(to left, #4F709C, #87d6a8, #84A7A1, #4F709C);
+}
+footer i {
+  color: #FF0000;
+}
+
+.curiosidades {
+  text-align: center;
+}
+.curiosidades h3, .curiosidades h4, .curiosidades p {
+  color: #4F709C;
 }/*# sourceMappingURL=style.css.map */
