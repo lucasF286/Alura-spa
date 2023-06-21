@@ -43,4 +43,22 @@ nav ul li a:hover {
 .banner .inner-banner h2 {
   font-size: 1.5rem;
   color: #87d6a8;
+}
+
+#servico {
+  margin: 80px;
+}
+#servico h4 {
+  font-size: 1.2rem;
+  color: #87d6a8;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  margin: 1rem;
+}
+#servico h3 {
+  font-size: 2.5rem;
+  margin-bottom: 80px;
+  font-weight: 300;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
